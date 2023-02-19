@@ -9,7 +9,7 @@
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #ffffff;
-  --bg-color-transparent: #00163f80;
+  --bg-color-transparent: #f08800;
   --font-color: #000000;
   --btn-bg-color: #f08800;
   --accent-color: #f08800;
@@ -103,7 +103,7 @@ header .container {
   display: inline-block;
   padding: 1rem 2rem;
   background: var(--btn-bg-color);
-  color: var(--accent-color);
+  color: var(#000000);
   font-family: var(--font-secondary);
   font-style: italic;
   font-weight: bold;
