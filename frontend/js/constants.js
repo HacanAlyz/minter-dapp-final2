@@ -1,5 +1,5 @@
-const contractAddress = "0x9D38C14E00214975ee96A4140dE862BcA5f9fbEC"; // Replace with your own contract address
-const chain = 'goerli'; // goerli, polygon, or ethereum
+const contractAddress = "0x9a69a9F0FcFbDE120D1551f4d0150914237D2F2F"; // Replace with your own contract address
+const chain = 'polygon'; // goerli, polygon, or ethereum
 
 const welcome_h1 = "Rath NFTs";
 const welcome_h2 = "Connect to MetaMask to Get Started";
